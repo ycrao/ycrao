@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🇨🇳 Shanghai, China・🕹 Web developer
+🇨🇳 Shanghai, China・🕹 Web developer, backend programmer using mixed-stacks in different languages.
 
 https://raoyc.com
 
