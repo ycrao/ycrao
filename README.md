@@ -12,5 +12,4 @@ personal website: https://raoyc.com
 - 🤔 Solve problem and do something different
 - 📫 mailto: cmFveWMyMDA5KGF0KWdtYWlsLmNvbQ==
 
-<!-- - 👯 I'm interested in [AI](https://github.com/topics/ai) and [Raspberry Pi](https://github.com/topics/raspberry-pi) -->
 
