@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🇨🇳 Shanghai, China・🕹 Web developer, backend programmer using mixed-stacks in different languages. 
+Wuhan, China・🕹 Web developer, backend programmer using mixed-stacks in different languages. 
 
 <!--I'm currently looking for a job.-->
 
