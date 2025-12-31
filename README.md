@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Wuhan, China・🕹 Web developer, backend programmer using mixed-stacks in different languages. 
+Guangzhou, China・🕹 Web developer, backend programmer using mixed-stacks in different languages. 
 
 <!--I'm currently looking for a job.-->
 
@@ -8,7 +8,7 @@ Wuhan, China・🕹 Web developer, backend programmer using mixed-stacks in diff
 
 personal website: https://raoyc.com
 
-- 🌱 Life-long learner and programmer
+- 🌱 Life-long learner, programmer, and coding with AI
 - 🤔 Solve problem and do something different
 - 📫 mailto: cmFveWMyMDA5KGF0KWdtYWlsLmNvbQ==
 
