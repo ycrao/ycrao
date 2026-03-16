@@ -1,10 +1,7 @@
 >    本页面列出了一些本人的作品与项目，大部分开源可见，更新时间为 2026-03-16。
 
-### AI 驱动 及研究
+### AI 领域
 
-- [十二宫格音乐](https://github.com/ycrao/grid-music-player)：[演示](https://gmp.gh.1206168.xyz)
-- [网页录制器](https://github.com/ycrao/web-screen-recorder)：[演示](https://wsr.gh.1206168.xyz)
-- [ddl-to-object](https://github.com/ycrao/ddl-to-object)：[演示](https://d2o.gh.1206168.xyz)
 - [AI热榜](https://tda.gh.1206168.xyz/ai/)
 - [personal-ai-suite](https://github.com/ycrao/personal-ai-suite)
 
@@ -13,11 +10,12 @@
  - [MarkdocViewer](https://github.com/ycrao/markdoc-viewer)：从公开的 `git` 仓库阅读 `markdown` 文档 （就一个页面）！
  - [Vue3 + Vite 快开脚手架](https://github.com/ycrao/topop-vue)
  - [scripts-for-scriptable](https://github.com/ycrao/scripts-for-scriptable)： Scriptable 应用脚本
-
+ - [十二宫格音乐](https://github.com/ycrao/grid-music-player)：[演示](https://gmp.gh.1206168.xyz)
+ - [网页录制器](https://github.com/ycrao/web-screen-recorder)：[演示](https://wsr.gh.1206168.xyz)
 
 ### 脚本软件
 
-大部分为Autohotkey脚本，更多请查阅[飞扬小工具软件][5]
+大部分为Autohotkey脚本，更多请查阅[飞扬小工具软件](https://github.com/ycrao/fysoft)
 
  - 2013年： [AHK CKEditor](https://github.com/ycrao/ahk_ckeditor)（不再更新维护）
  - 2014年： [CintaNotes笔记导出器](https://github.com/ycrao/cintanotes_xml2html)
@@ -37,6 +35,8 @@
  - [laravel-ckeditor](https://github.com/douyasi/laravel-ckeditor)： CKEditor for Laravel
  - [db-dict](https://github.com/douyasi/db-dict)：数据库数据字典生成脚本 Database Dictionary Generator
  - [some-spider-code](https://github.com/ycrao/some-spider-code)：基于 Python 的财经资讯及价格抓取器
+ - [ddl-to-object](https://github.com/ycrao/ddl-to-object)：[演示](https://d2o.gh.1206168.xyz)
+ - ...
 
 ### 杂项演示
 
